@@ -1,0 +1,8 @@
+{
+  "expression": {
+    "fn": "/",
+    "a": "price",
+    "b": "eps"
+  },
+  "security": "BCD"
+}
