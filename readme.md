@@ -15,4 +15,4 @@ FactQueryController - REST endpoint
 ExpressionDeserializer - handles the polymorphic types
 Operator - enum describing supported operations
 QueryService - applies the visitor pattern to process the JSON tree
-CsvSecurityDataRepository - loads up the CSV data
+CsvSecurityDataRepository - loads up the CSV data 
